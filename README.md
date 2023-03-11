@@ -1,2 +1,1 @@
-# Python-Flask
-<h1>hello everyone</h1>
+## Hello everyone 😁 here is a simple tutorial of creating a python flask applicaiton
