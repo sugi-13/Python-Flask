@@ -2,4 +2,4 @@
 
 Folder structure :
 <br>
-<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/Filestrucutre.PNG" height="100" />
+<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/Filestrucutre.PNG" height="300" width="300" />
