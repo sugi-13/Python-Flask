@@ -10,7 +10,7 @@ To install Flask, run the following command in your terminal:
 
 Write the following code in your app.py file :
 <br><br>
-<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/p1.PNG" height="300" width="300" />
+<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/p1.PNG" height="300" width="700" />
 
 Run the application by the following command :
 <br>
@@ -18,27 +18,27 @@ Run the application by the following command :
 
 Click the link that displays in the terminal and the browser opens
 <br><br>
-<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/o1.PNG" height="300" width="300" />
+<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/o1.PNG" height="300" width="700" />
 
 Output :
 <br><br>
-<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/o2.PNG" height="300" width="300" />
+<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/o2.PNG" height="300" width="700" />
 
 <h3>Flask allows us to create HTML files and use them as templates for our web pages.</h3>
 
 Create a basic HTML page, like this:
 <br><br>
-<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/html.PNG" height="300" width="300" />
+<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/html.PNG" height="300" width="700" />
 
 Add css : 
 <br><br>
-<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/css.PNG" height="300" width="300" />
+<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/css.PNG" height="300" width="700" />
 
 Update the python code to run the application :
 <br><br>
-<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/p2.PNG" height="300" width="300" />
+<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/p2.PNG" height="300" width="700" />
 
 Output be like :
 <br><br>
-<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/output.PNG" height="300" width="300" />
+<img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/output.PNG" height="300" width="700" />
 
