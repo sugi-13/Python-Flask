@@ -24,7 +24,7 @@ Output :
 <br><br>
 <img align="center" src="https://github.com/sugi-13/Python-Flask/blob/main/static/css/o2.PNG" height="300" width="700" />
 
-<h3>Flask allows us to create HTML files and use them as templates for our web pages.</h3>
+<h2>Flask allows us to create HTML files and use them as templates for our web pages.</h2>
 
 Create a basic HTML page, like this:
 <br><br>
